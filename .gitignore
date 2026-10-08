@@ -1,0 +1,17 @@
+/data/raw
+
+model/model/__pycache__
+model/build/*
+model/dist
+data/tmp
+data/features/
+
+scripts/catboost_info/
+notebooks/tmp
+scripts/tmp
+udpipe2-ud-2.15-241121/
+model/model/nilcmetrix-main/
+/dev_segments
+segments.zip
+/model/model
+data/processed/csv/*
